@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1714547174 source:c:\users\mihai\projects c++\phone agenda aplication\phone agenda\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<sstream>
+	<stdexcept>
+	<limits>
+
