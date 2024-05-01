@@ -1,6 +1,2 @@
-Name: andrei popa, Age: 22, Address: Buzau str Infratirii nr 41, Phone Number: 62645924
-Name: Vasile Suva, Age: 46, Address: Bacau 12, Phone Number: 025065683
-Name: mihai pop, Age: 13, Address: Mamaia nr 4 jud Constanta, Phone Number: 0726645868
-Name: Ana Ionescu, Age: 44, Address: Marasesti 12, Phone Number: 7612629878
-Name: Vasile Ion, Age: 26, Address: str Amsterdam 13,Bucuresti, Phone Number: 0250594569
-Name: stela Pop, Age: 68, Address: Constanta str Soarelui nr 4, Phone Number: 05896356678
+Name: Ana Vasilescu, Age: 49, Address: Alba str Scurta nr 47, Phone Number: 0269557693
+Name: Mihai Pop, Age: 13, Address: Cluj 38, Phone Number: 036975574
