@@ -17,7 +17,7 @@ Save contacts to a file for future reference.
 
 To get started with Budget Tracker, follow these steps:
 
-1. Clone the repository to your local machine git clone https://github.com/MihaiPopescu31/Phone-Agenda-Application.git
+1. Clone the repository to your local machine git clone https://github.com/MihaiPopescu31/Phone-Agenda-Application
 
 2. Compile the source code files using a C++ compiler.
 
