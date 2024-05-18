@@ -1,2 +1,1 @@
-Name: Ana Vasilescu, Age: 49, Address: Alba str Scurta nr 47, Phone Number: 0269557693
-Name: Mihai Pop, Age: 13, Address: Cluj 38, Phone Number: 036975574
+Name: Ana Cioran, Age: 34, Address: Bucuresti sector 2,nr 54, Phone Number: 025066487
